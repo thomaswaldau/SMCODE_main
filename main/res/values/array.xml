@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="characters">
+        <item>Elf</item>
+        <item>Orc</item>
+        <item>Goblin</item>
+        <item>Hunter</item>
+        <item>Huntress</item>
+        <item>Jester</item>
+        <item>Police</item>
+        <item>Samurai</item>
+        <item>Ninja</item>
+        <item>Dragon</item>
+        <item>Fox</item>
+        <item>Bear</item>
+        <item>Murderer</item>
+        <item>Student</item>
+        <item>Man</item>
+        <item>Woman</item>
+        <item>Witch</item>
+        <item>Girl</item>
+        <item>Boy</item>
+        <item>Zombie</item>
+        <item>Dog</item>
+        <item>Horse</item>
+        <item>Magician</item>
+        <item>Sorcerer</item>
+        <item>King</item>
+        <item>Queen</item>
+        <item>Stranger</item>
+        <item>Superhero</item>
+        <item>Cat</item>
+        <item>Mutant</item>
+        <item>Robot</item>
+        <item>Hamster</item>
+        <item>Moose</item>
+        <item>Tree</item>
+        <item>A mythical creauter</item>
+        <item>Animal boy</item>
+        <item>Animal girl</item>
+        <item>Demon</item>
+        <item>Animal</item>
+        <item>Butcher</item>
+        <item>Alien</item>
+        <item>Pirate</item>
+        <item>Duck</item>
+        <item>Dinosaur</item>
+        <item>Butterfly</item>
+        <item>Unicorn</item>
+        <item>Cthulhu</item>
+        <item>Puppy</item>
+        <item>Viking</item>
+        <item>Angel</item>
+        <item>Panther</item>
+        <item>Vampire</item>
+        <item>Ghost</item>
+        <item>Gangster</item>
+        <item>Soilder</item>
+    </string-array>
+    <string-array name="attribute">
+        <item>Cute</item>
+        <item>Chibi style</item>
+        <item>Little</item>
+        <item>Old</item>
+        <item>Messy</item>
+        <item>Evil</item>
+        <item>Mysterious</item>
+        <item>Singing</item>
+        <item>Fantasy</item>
+        <item>Steampunk</item>
+        <item>Futuristic</item>
+        <item>Medival</item>
+        <item>Poor</item>
+        <item>Rich</item>
+        <item>Friendly</item>
+    </string-array>
+    <string-array name="setting">
+        <item>School</item>
+        <item>Your room</item>
+        <item>Home</item>
+        <item>Laboratory</item>
+        <item>Secret club</item>
+        <item>Crowd</item>
+        <item>Festival</item>
+        <item>Heaven</item>
+        <item>Hell</item>
+        <item>Café</item>
+        <item>War</item>
+        <item>Magical war</item>
+        <item>Alien attack</item>
+        <item>Monster attack</item>
+        <item>Early morning</item>
+        <item>Late night</item>
+        <item>Moonlight</item>
+        <item>Stary sky</item>
+        <item>Bedroom</item>
+        <item>Playground</item>
+        <item>Party</item>
+        <item>Banquet</item>
+        <item>Dream</item>
+    </string-array>
+    <string-array name="background">
+        <item>School building</item>
+        <item>Meadow</item>
+        <item>Forest</item>
+        <item>Town</item>
+        <item>Medival town</item>
+        <item>Cottage</item>
+        <item>Sea</item>
+        <item>River</item>
+        <item>Big ship</item>
+        <item>samll boat</item>
+        <item>War ship</item>
+        <item>Classroom</item>
+        <item>Under water</item>
+        <item>Desert</item>
+        <item>Horse and cart</item>
+        <item>Mobile home</item>
+        <item>Factory</item>
+        <item>Office</item>
+        <item>Skyscraper</item>
+        <item>Monument</item>
+        <item>Celler</item>
+        <item>Music stage</item>
+        <item>Teater scen</item>
+        <item>Cinema</item>
+        <item>Airship</item>
+        <item>Airplane</item>
+        <item>Steampunk city</item>
+        <item>Computer</item>
+    </string-array>
+    <string-array name="emotion">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Crazy</item>
+        <item>Angry</item>
+        <item>Lost</item>
+        <item>Paranoid</item>
+        <item>In love</item>
+        <item>Nervous</item>
+        <item>Bubbly</item>
+        <item>Joyful</item>
+        <item>Despair</item>
+        <item>Super happy</item>
+        <item>Smiling</item>
+        <item>Crying</item>
+    </string-array>
+    <string-array name="color">
+        <item>Red</item>
+        <item>Black</item>
+        <item>Gray</item>
+        <item>Brown</item>
+        <item>Gold</item>
+        <item>Silver</item>
+        <item>Pink</item>
+        <item>Purple</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Blue</item>
+        <item>Turqouise</item>
+        <item>Green</item>
+        <item>Cream white</item>
+    </string-array>
+</resources>
